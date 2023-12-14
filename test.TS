@@ -1,0 +1,1 @@
+// validate an email with regax and comment each
